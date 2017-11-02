@@ -33,3 +33,8 @@ Write a function to update the dataframe to include a new column called "Points"
 medals for 1 point. The function should return only the column (a Series object) which you created.
 * Create a function get_points.
 * Return dataframe with points column and index.
+
+### Question - 6 
+Write a function to perform k-means clustering.
+* Create a fucntion k_means
+* return cluster centers
